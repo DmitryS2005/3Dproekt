@@ -1,0 +1,14 @@
+C:\Users\pl1297\source\repos\gametop\bin\Debug\net7.0\gametop.exe
+C:\Users\pl1297\source\repos\gametop\bin\Debug\net7.0\gametop.deps.json
+C:\Users\pl1297\source\repos\gametop\bin\Debug\net7.0\gametop.runtimeconfig.json
+C:\Users\pl1297\source\repos\gametop\bin\Debug\net7.0\gametop.dll
+C:\Users\pl1297\source\repos\gametop\bin\Debug\net7.0\gametop.pdb
+C:\Users\pl1297\source\repos\gametop\obj\Debug\net7.0\gametop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pl1297\source\repos\gametop\obj\Debug\net7.0\gametop.AssemblyInfoInputs.cache
+C:\Users\pl1297\source\repos\gametop\obj\Debug\net7.0\gametop.AssemblyInfo.cs
+C:\Users\pl1297\source\repos\gametop\obj\Debug\net7.0\gametop.csproj.CoreCompileInputs.cache
+C:\Users\pl1297\source\repos\gametop\obj\Debug\net7.0\gametop.dll
+C:\Users\pl1297\source\repos\gametop\obj\Debug\net7.0\refint\gametop.dll
+C:\Users\pl1297\source\repos\gametop\obj\Debug\net7.0\gametop.pdb
+C:\Users\pl1297\source\repos\gametop\obj\Debug\net7.0\gametop.genruntimeconfig.cache
+C:\Users\pl1297\source\repos\gametop\obj\Debug\net7.0\ref\gametop.dll

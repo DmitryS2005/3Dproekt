@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gametop", "gametop.csproj", "{2A02EAF5-785C-4500-A5C0-A3E89255EF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A02EAF5-785C-4500-A5C0-A3E89255EF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A02EAF5-785C-4500-A5C0-A3E89255EF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A02EAF5-785C-4500-A5C0-A3E89255EF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A02EAF5-785C-4500-A5C0-A3E89255EF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E6586E-B417-4C85-B5BD-0D6E6573BC09}
+	EndGlobalSection
+EndGlobal
